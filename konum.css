@@ -1,0 +1,63 @@
+body {
+    display: blocks;
+        align-items: center;
+        justify-content: center;
+background-color: rgb(5,56,51);  
+overflow-x: hidden; 
+}
+
+#snow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    z-index: 1000;
+}
+
+.navbar {
+    width: 90%;
+    height: 90%;
+    overflow: hidden;
+}
+
+.navbar img {
+    float: left;
+    margin-right: 15px;
+    padding: 0px;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.navbar a {
+float: left;
+display: block;
+color: rgb(255, 249, 249);
+text-align: center;
+padding: 1.4% 1.6%;
+margin-left: 10px;
+text-decoration:none;
+font-weight: bold;
+font-family: sans-serif;
+}
+
+
+
+.navbar a:hover {
+background-color: #000000;
+border-radius: 100px;
+}
+
+
+.harita{
+position: absolute;
+right: 30%;
+margin-top: 5%;
+}
+
+.harita, a {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+
+}

@@ -1,0 +1,22 @@
+.back {
+    width: 90%;
+height: 90%;
+overflow: hidden;
+
+}
+
+.back a {
+    float: right;
+display: block;
+color: rgb(255, 249, 249);
+text-align: center;
+padding: 1.4% 1.6%;
+margin-left: 10px;
+text-decoration:none;
+font-weight: bold;
+font-family: sans-serif;
+}
+
+h3 {
+    color: aliceblue;
+}
