@@ -6,6 +6,3 @@ Bölüm: Bilgisayar programcılığı
 Hocam yüklediğim resimler ve slider github üzerinde çalışmadı bir sorun var ama denememize rağmen düzelmiyor.
 Size uzaktan eğitim sitesinden attığım dosyada tüm site tam olarak eksiksiz çalışıyor ve iletişim kısmındaki mail gönderme formu da çalışıyor.
 Gönderilen mailler bana geliyor Kısacası.
-
-Uzaktan eğitim ve Githubdan attığım kodların hepsi aynı fakat burada ki sorunu çözemedim.
-İyi akşamlar Hocam.
